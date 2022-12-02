@@ -1,6 +1,6 @@
 # sortingvisualizer
 This is a simple visualization project made using javascript
-Bubble Sort
+#### Bubble Sort
 Selection Sort
 Insertion SorT
 ![img1](https://user-images.githubusercontent.com/94789102/205270541-ae73e9d9-c83f-4fae-93db-da61ce826196.png)
